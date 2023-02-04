@@ -1,0 +1,8 @@
+E:\Programming Language\C#\001 Night1\001 Night1\bin\Debug\001 Night1.exe.config
+E:\Programming Language\C#\001 Night1\001 Night1\bin\Debug\001 Night1.exe
+E:\Programming Language\C#\001 Night1\001 Night1\bin\Debug\001 Night1.pdb
+E:\Programming Language\C#\001 Night1\001 Night1\obj\Debug\001 Night1.csproj.AssemblyReference.cache
+E:\Programming Language\C#\001 Night1\001 Night1\obj\Debug\001 Night1.csproj.SuggestedBindingRedirects.cache
+E:\Programming Language\C#\001 Night1\001 Night1\obj\Debug\001 Night1.csproj.CoreCompileInputs.cache
+E:\Programming Language\C#\001 Night1\001 Night1\obj\Debug\001 Night1.exe
+E:\Programming Language\C#\001 Night1\001 Night1\obj\Debug\001 Night1.pdb
