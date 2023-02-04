@@ -1,0 +1,8 @@
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\obj\Debug\002 Ownsheet.csproj.AssemblyReference.cache
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\obj\Debug\002 Ownsheet.csproj.SuggestedBindingRedirects.cache
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\obj\Debug\002 Ownsheet.csproj.CoreCompileInputs.cache
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\bin\Debug\002 Ownsheet.exe.config
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\bin\Debug\002 Ownsheet.exe
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\bin\Debug\002 Ownsheet.pdb
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\obj\Debug\002 Ownsheet.exe
+E:\Programming Language\C#\002 Ownsheet\002 Ownsheet\obj\Debug\002 Ownsheet.pdb
