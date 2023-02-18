@@ -1,0 +1,8 @@
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.exe
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.pdb
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.csproj.AssemblyReference.cache
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.csproj.SuggestedBindingRedirects.cache
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.csproj.CoreCompileInputs.cache
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.exe
+E:\Zahin's Love Sharp\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.pdb
