@@ -1,0 +1,8 @@
+E:\Zahin's Love Sharp\Array\Array\bin\Debug\Array.exe.config
+E:\Zahin's Love Sharp\Array\Array\bin\Debug\Array.exe
+E:\Zahin's Love Sharp\Array\Array\bin\Debug\Array.pdb
+E:\Zahin's Love Sharp\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+E:\Zahin's Love Sharp\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+E:\Zahin's Love Sharp\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\Zahin's Love Sharp\Array\Array\obj\Debug\Array.exe
+E:\Zahin's Love Sharp\Array\Array\obj\Debug\Array.pdb
