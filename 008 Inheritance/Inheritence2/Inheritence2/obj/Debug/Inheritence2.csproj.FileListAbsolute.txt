@@ -1,0 +1,8 @@
+E:\Language\C#\Inheritence2\Inheritence2\bin\Debug\Inheritence2.exe.config
+E:\Language\C#\Inheritence2\Inheritence2\bin\Debug\Inheritence2.exe
+E:\Language\C#\Inheritence2\Inheritence2\bin\Debug\Inheritence2.pdb
+E:\Language\C#\Inheritence2\Inheritence2\obj\Debug\Inheritence2.csproj.AssemblyReference.cache
+E:\Language\C#\Inheritence2\Inheritence2\obj\Debug\Inheritence2.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\Inheritence2\Inheritence2\obj\Debug\Inheritence2.csproj.CoreCompileInputs.cache
+E:\Language\C#\Inheritence2\Inheritence2\obj\Debug\Inheritence2.exe
+E:\Language\C#\Inheritence2\Inheritence2\obj\Debug\Inheritence2.pdb
