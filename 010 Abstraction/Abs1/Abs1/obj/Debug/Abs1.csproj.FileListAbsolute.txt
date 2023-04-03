@@ -1,0 +1,8 @@
+E:\Language\C#\010 Abstraction\Abs1\Abs1\obj\Debug\Abs1.csproj.AssemblyReference.cache
+E:\Language\C#\010 Abstraction\Abs1\Abs1\obj\Debug\Abs1.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\010 Abstraction\Abs1\Abs1\obj\Debug\Abs1.csproj.CoreCompileInputs.cache
+E:\Language\C#\010 Abstraction\Abs1\Abs1\bin\Debug\Abs1.exe.config
+E:\Language\C#\010 Abstraction\Abs1\Abs1\bin\Debug\Abs1.exe
+E:\Language\C#\010 Abstraction\Abs1\Abs1\bin\Debug\Abs1.pdb
+E:\Language\C#\010 Abstraction\Abs1\Abs1\obj\Debug\Abs1.exe
+E:\Language\C#\010 Abstraction\Abs1\Abs1\obj\Debug\Abs1.pdb
