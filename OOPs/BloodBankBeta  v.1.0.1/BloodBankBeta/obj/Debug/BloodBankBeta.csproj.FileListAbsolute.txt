@@ -1,0 +1,8 @@
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\bin\Debug\BloodBankBeta.exe.config
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\bin\Debug\BloodBankBeta.exe
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\bin\Debug\BloodBankBeta.pdb
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\obj\Debug\BloodBankBeta.csproj.AssemblyReference.cache
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\obj\Debug\BloodBankBeta.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\obj\Debug\BloodBankBeta.csproj.CoreCompileInputs.cache
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\obj\Debug\BloodBankBeta.exe
+E:\Language\C#\OOPs\BloodBankBeta\BloodBankBeta\obj\Debug\BloodBankBeta.pdb
