@@ -1,0 +1,8 @@
+E:\Language\C#\SuperBank\SuperBank\bin\Debug\SuperBank.exe.config
+E:\Language\C#\SuperBank\SuperBank\bin\Debug\SuperBank.exe
+E:\Language\C#\SuperBank\SuperBank\bin\Debug\SuperBank.pdb
+E:\Language\C#\SuperBank\SuperBank\obj\Debug\SuperBank.csproj.AssemblyReference.cache
+E:\Language\C#\SuperBank\SuperBank\obj\Debug\SuperBank.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\SuperBank\SuperBank\obj\Debug\SuperBank.csproj.CoreCompileInputs.cache
+E:\Language\C#\SuperBank\SuperBank\obj\Debug\SuperBank.exe
+E:\Language\C#\SuperBank\SuperBank\obj\Debug\SuperBank.pdb
