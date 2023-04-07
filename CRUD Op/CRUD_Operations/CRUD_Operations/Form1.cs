@@ -11,7 +11,7 @@ namespace CRUD_Operations
             InitializeComponent();
         }
 
-        SqlConnection con = new SqlConnection(@"Data Source=XAHIN7-9K4ZX\SQLEXPRESS;Initial Catalog=test1;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=---ServerName----;Initial Catalog=test1;Integrated Security=True");
 
         public int StudentID;
 
@@ -38,7 +38,7 @@ namespace CRUD_Operations
 
         private void GetStudentsRecord()
         {
-          //  SqlConnection con = new SqlConnection(@"Data Source=XAHIN7-9K4ZX\SQLEXPRESS;Initial Catalog=test1;Integrated Security=True");
+          //  SqlConnection con = new SqlConnection(@"Data Source=---ServerName---;Initial Catalog=test1;Integrated Security=True");
             SqlCommand cmd = new SqlCommand("Select * from StudentsTb ",con);
             DataTable dt = new DataTable();
             con.Open();
