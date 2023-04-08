@@ -1,0 +1,11 @@
+E:\Language\C#\Glass\Glass\bin\Debug\Glass.exe.config
+E:\Language\C#\Glass\Glass\bin\Debug\Glass.exe
+E:\Language\C#\Glass\Glass\bin\Debug\Glass.pdb
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.csproj.AssemblyReference.cache
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.Properties.Resources.resources
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.csproj.GenerateResource.cache
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.csproj.CoreCompileInputs.cache
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.exe
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.pdb
+E:\Language\C#\Glass\Glass\obj\Debug\Glass.Glass.resources
