@@ -1,0 +1,8 @@
+E:\Programming Language\C#\Vs\Valluk\Valluk\bin\Debug\Valluk.exe.config
+E:\Programming Language\C#\Vs\Valluk\Valluk\bin\Debug\Valluk.exe
+E:\Programming Language\C#\Vs\Valluk\Valluk\bin\Debug\Valluk.pdb
+E:\Programming Language\C#\Vs\Valluk\Valluk\obj\Debug\Valluk.csproj.AssemblyReference.cache
+E:\Programming Language\C#\Vs\Valluk\Valluk\obj\Debug\Valluk.csproj.SuggestedBindingRedirects.cache
+E:\Programming Language\C#\Vs\Valluk\Valluk\obj\Debug\Valluk.csproj.CoreCompileInputs.cache
+E:\Programming Language\C#\Vs\Valluk\Valluk\obj\Debug\Valluk.exe
+E:\Programming Language\C#\Vs\Valluk\Valluk\obj\Debug\Valluk.pdb

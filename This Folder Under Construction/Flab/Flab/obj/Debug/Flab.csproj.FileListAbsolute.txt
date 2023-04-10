@@ -1,0 +1,8 @@
+E:\Programming Language\C#\Vs\Flab\Flab\bin\Debug\Flab.exe.config
+E:\Programming Language\C#\Vs\Flab\Flab\bin\Debug\Flab.exe
+E:\Programming Language\C#\Vs\Flab\Flab\bin\Debug\Flab.pdb
+E:\Programming Language\C#\Vs\Flab\Flab\obj\Debug\Flab.csproj.AssemblyReference.cache
+E:\Programming Language\C#\Vs\Flab\Flab\obj\Debug\Flab.csproj.SuggestedBindingRedirects.cache
+E:\Programming Language\C#\Vs\Flab\Flab\obj\Debug\Flab.csproj.CoreCompileInputs.cache
+E:\Programming Language\C#\Vs\Flab\Flab\obj\Debug\Flab.exe
+E:\Programming Language\C#\Vs\Flab\Flab\obj\Debug\Flab.pdb
