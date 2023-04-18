@@ -1,0 +1,8 @@
+E:\Language\C#\Indexers2\Indexers2\bin\Debug\Indexers2.exe.config
+E:\Language\C#\Indexers2\Indexers2\bin\Debug\Indexers2.exe
+E:\Language\C#\Indexers2\Indexers2\bin\Debug\Indexers2.pdb
+E:\Language\C#\Indexers2\Indexers2\obj\Debug\Indexers2.csproj.AssemblyReference.cache
+E:\Language\C#\Indexers2\Indexers2\obj\Debug\Indexers2.csproj.SuggestedBindingRedirects.cache
+E:\Language\C#\Indexers2\Indexers2\obj\Debug\Indexers2.csproj.CoreCompileInputs.cache
+E:\Language\C#\Indexers2\Indexers2\obj\Debug\Indexers2.exe
+E:\Language\C#\Indexers2\Indexers2\obj\Debug\Indexers2.pdb
