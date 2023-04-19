@@ -1,0 +1,8 @@
+E:\Zahin's Love Sharp\FileUse\FileUse\obj\Debug\FileUse.csproj.AssemblyReference.cache
+E:\Zahin's Love Sharp\FileUse\FileUse\obj\Debug\FileUse.csproj.SuggestedBindingRedirects.cache
+E:\Zahin's Love Sharp\FileUse\FileUse\obj\Debug\FileUse.csproj.CoreCompileInputs.cache
+E:\Zahin's Love Sharp\FileUse\FileUse\bin\Debug\FileUse.exe.config
+E:\Zahin's Love Sharp\FileUse\FileUse\bin\Debug\FileUse.exe
+E:\Zahin's Love Sharp\FileUse\FileUse\bin\Debug\FileUse.pdb
+E:\Zahin's Love Sharp\FileUse\FileUse\obj\Debug\FileUse.exe
+E:\Zahin's Love Sharp\FileUse\FileUse\obj\Debug\FileUse.pdb
